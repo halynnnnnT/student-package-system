@@ -36,8 +36,8 @@ npm install
 ```
 2. 啟動 Vue 前端： `npm run serve`
 3. 訪問網頁
-   - 管理者頁面: http://localhost:8080/admin
-   - 學生簽收頁面: http://localhost:8080/pickup
+   - 管理者頁面: http://localhost/admin
+   - 學生簽收頁面: http://localhost/pickup
 
 ## 功能
 - 管理者頁面:
